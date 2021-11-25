@@ -3,6 +3,9 @@
 ## Plataforma de aprendizado
 * Rockeseat
 
+## Curso
+* BootCamp Ignite Trilha Nodejs
+
 ## Desafio03
 * Corrigir erros da API
 
