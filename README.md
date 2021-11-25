@@ -3,7 +3,7 @@
 ## Plataforma de aprendizado
 * Rockeseat
 
-## Desafio02
+## Desafio03
 * Corrigir erros da API
 
 ## Descrição
